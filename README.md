@@ -41,3 +41,7 @@ Used the Gradio interface to test the model
 ## Web Interface
 ![image](https://github.com/user-attachments/assets/ee921454-02a7-48de-845e-8a4afc471cc6)
 
+## Output 
+![image](https://github.com/user-attachments/assets/d7804b7c-8f6d-43c3-932e-c1b128ead076)
+
+
